@@ -1,5 +1,5 @@
 def custom_print(param):
     print(param)
 
-custom_print("Hello, Worlds!")
 
+custom_print("Hello, Python !")
