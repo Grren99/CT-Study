@@ -2,6 +2,7 @@ package JAVA.junGi.pro.level0;
 
 public class Question29 {
 
+        // 치킨 쿠폰
         public int solution(int chicken) {
             int answer = 0;
 
