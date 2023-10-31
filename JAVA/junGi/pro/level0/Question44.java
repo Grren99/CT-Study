@@ -1,6 +1,7 @@
 package JAVA.junGi.pro.level0;
 
 public class Question44 {
+        // 분수의 덧셈
         // 기약분수 만들기
         public int[] solution(int numer1, int denom1, int numer2, int denom2) {
             int numerator = (numer1 * denom2) + (numer2 * denom1);
