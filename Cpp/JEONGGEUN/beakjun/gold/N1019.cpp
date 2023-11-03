@@ -13,7 +13,7 @@ int main() {
 		string s1 = to_string(i);
 		for (int j = 0; j < s1.length(); j++) {
 			//문자열 길이만큼 비교
-			string sub = s1.substr(j, j + 1);
+			string sub = s1.substr(j, 1);
 			
 			int k = stoi(sub);
 
