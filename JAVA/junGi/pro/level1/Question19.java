@@ -9,7 +9,7 @@ public class Question19 {
 
         for(int i = 0; i < numbers.length; i++){
 
-            for(int j = i + 1; j < numbers.length; j++){
+            for(int j = i + 1; j < numbers.length; j++) {
                 result.add(numbers[i] + numbers[j]);
             }
         }
